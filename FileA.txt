@@ -1,3 +1,7 @@
 This FileA
+<<<<<<< HEAD
+This is the change to the fileA
+=======
 This is the change to the FileA
 Making another change
+>>>>>>> IOS
